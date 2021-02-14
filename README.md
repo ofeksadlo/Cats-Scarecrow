@@ -29,6 +29,6 @@ So we used a rather slow model.</br></br>
 
 # Can I change the sound?
 You can use whatever sound you want just name it Sound.mp3
+</br></br>
 
-
-**Developed in [Python 3.7.7](https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe)**
+***Developed and tested in [Python 3.7.7](https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe)***
