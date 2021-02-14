@@ -1,4 +1,5 @@
 # Cats-Scarecrow
+![showcase](https://github.com/ofeksadlo/Cats-Scarecrow/blob/main/showcase.gif?raw=true)</br>
 Scare away your cats from your sofa.</br>
 [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
 
